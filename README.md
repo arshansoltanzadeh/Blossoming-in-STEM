@@ -1,2 +1,1 @@
-# BlossomingInStem
-organization draft
+Organization draft
